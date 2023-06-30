@@ -4011,7 +4011,6 @@ dependencies = [
  "wasmparser 0.107.0",
  "wasmtime-cranelift-shared",
  "wasmtime-environ",
- "wasmtime-versioned-export-macros",
 ]
 
 [[package]]
@@ -4049,7 +4048,6 @@ dependencies = [
  "wasmprinter",
  "wasmtime-component-util",
  "wasmtime-types",
- "wasmtime-versioned-export-macros",
  "wat",
 ]
 
@@ -4089,6 +4087,7 @@ dependencies = [
  "cfg-if",
  "rustix",
  "wasmtime-asm-macros",
+ "wasmtime-versioned-export-macros",
  "windows-sys 0.48.0",
 ]
 
